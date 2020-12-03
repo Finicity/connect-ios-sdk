@@ -7,7 +7,7 @@ Pod::Spec.new do |spec|
                       The Connect iOS SDK allows you to embed Finicity Connect anywhere you want within your own mobile applications.
                       DESC
   spec.homepage     = "https://docs.finicity.com/connect-ios-sdk/"
-  spec.license      = { :type => "MIT", :file => "FILE_LICENSE" }
+  spec.license      = { :type => "MIT", :file => "LICENSE" }
   spec.author       = "Finicity"
   spec.platform     = :ios, "11.0"
   spec.source       = { :git => "https://github.com/Finicity/connect-ios-sdk.git", :tag => "#{spec.version}" }
