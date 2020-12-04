@@ -1,4 +1,4 @@
-# Connect iOS SDK [![version][connect-sdk-version]](connect-sdk-url)
+# Connect iOS SDK [![version][connect-sdk-version]][connect-sdk-url]
 
 ## Overview
 
