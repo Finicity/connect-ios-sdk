@@ -104,5 +104,5 @@ func connectUserEvent(_ data: NSDictionary?) {
 
 This repository contains a sample application ConnectWrapper written in Swift (requires Xcode 11 or greater) that demonstrates integration and use of Connect iOS SDK.
 
-[connect-sdk-version]: https://img.shields.io/cocoapods/v/Connect
-[connect-sdk-url]: https://cocoapods.org/pods/Connect
+[connect-sdk-version]: https://img.shields.io/cocoapods/v/FinicityConnect
+[connect-sdk-url]: https://cocoapods.org/pods/FinicityConnect
