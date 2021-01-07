@@ -12,3 +12,4 @@
 - Initial release to CocoaPods.
 - Connect iOS SDK distributed in xcframework binary format to make it easier to integrate with our SDK.
 - Enabled bitcode support.
+- Added API sdkVersion() to return the current SDK version in semantic versioning string format.
